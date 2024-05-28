@@ -12,7 +12,7 @@
 
 - In my projects, I adhere to **SOLID Principles** to ensure clean and maintainable code. I develop **Event-Based Systems** to enhance game functionality and responsiveness. To manage data efficiently, I utilize **Scriptable Objects**.  Additionally, I leverage **Object-Oriented Programming (OOP) Principles**, including **encapsulation**, **inheritance**, **abstraction**, and **polymorphism**, to create flexible and scalable architectures.
 
-🧠 My motto in game development is: "If there's a recurring pattern, think about it mathematically." 
+🧠 My motto in game development is: **"If there's a recurring pattern, think about it mathematically."** 
 
 I Have Knowledge of
 ----
