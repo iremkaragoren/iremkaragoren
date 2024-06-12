@@ -16,8 +16,8 @@
 
 I Have Knowledge of
 ----
-- C++
 - C#
+- C++ (Beginner)
 
 Developed Games
 ----
